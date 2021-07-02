@@ -1,0 +1,15 @@
+.slide:hover{
+    color:pink;
+}
+#out{
+    text-decoration:underline;
+    position: fixed;
+    top: 68px;
+    right: 0px;
+    z-index: 999;
+}
+#download{
+    position: fixed;
+    top: 20px;
+    left: 10px;
+}

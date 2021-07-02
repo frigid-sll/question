@@ -1,0 +1,12 @@
+#save{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+}
+#again{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 999;
+}

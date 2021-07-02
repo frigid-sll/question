@@ -1,0 +1,26 @@
+#out{
+    text-decoration:underline;
+    position: fixed;
+    top: 60px;
+    right: 0px;
+    z-index: 999;
+}
+#value{
+    position: fixed;
+    top: 20px;
+    left: 10px;
+    width: 300px;
+}
+#seek{
+    position: fixed;
+    top: 20px;
+    left: 320px;
+}
+#user_catalogue{
+    position: absolute;
+    left: 10px;
+    top: 99px;
+}
+.slide:hover{
+	color:pink;
+}
